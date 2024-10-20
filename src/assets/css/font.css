@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'HyundaiSansHeadKR';
+    font-weight: 800;
+    src: url(font/9faa1ca.eot);
+    src: url(font/9faa1ca.eot?#iefix) format("embedded-opentype"), 
+         url(font/f9b1c31.woff) format("woff"), 
+         url(font/7b12e10.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'HyundaiSansHeadKR';
+    font-weight: 700;
+    src: url(font/f91ff48.eot);
+    src: url(font/f91ff48.eot?#iefix) format("embedded-opentype"), 
+         url(font/b6a9c01.woff) format("woff"), 
+         url(font/7eb00eb.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'HyundaiSansHeadKR';
+    font-weight: 300;
+    src: url(font/cdc779c.eot);
+    src: url(font/cdc779c.eot?#iefix) format("embedded-opentype"), 
+         url(font/0f205ea.woff) format("woff"), 
+         url(font/d3b6955.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'HyundaiSansHeadKR';
+    font-weight: 400;
+    src: url(font/c84dac9.eot);
+    src: url(font/c84dac9.eot?#iefix) format("embedded-opentype"), 
+         url(font/4030928.woff) format("woff"), 
+         url(font/d3b6955.ttf) format("truetype");
+}
